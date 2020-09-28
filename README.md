@@ -2,7 +2,9 @@
 
 ### 사진
 
-![main](https://postfiles.pstatic.net/MjAyMDA4MDRfMTU1/MDAxNTk2NTA2ODAyMTgx.Qoff6FQ1RJyGw83meuDXT5J5e-Ac1WwSJMH2wf1l1Swg.KinVePXqdUOeyDYYRp4aguwTsxF0OBQB64LNUYTJRRgg.PNG.getinthere/Screenshot_26.png?type=w773)
+![Header](preview/Header.png)
+![view1](preview/view1.png)
+![view2](preview/view2.png)
 
 ### 설치
 
