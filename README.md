@@ -1,4 +1,4 @@
-#Style-Component-연습
+# Style-Component-연습
 
 ### 사진
 
@@ -29,4 +29,4 @@
 
 ### 라이브러리
 
-- npm install --save styled-components
+- npm install --save gitstyled-components
