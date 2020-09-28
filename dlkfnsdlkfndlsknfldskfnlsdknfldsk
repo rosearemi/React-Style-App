@@ -1,0 +1,41 @@
+[33mcommit 3029e2782831a2204ce8cfc261d68420a7a7616c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: sumi <suuumi08@gmail.com>
+Date:   Mon Sep 28 11:35:43 2020 +0900
+
+    4. 에어비엔비 디자인 하기 환경 설정 완료
+
+[33mcommit 66d2a17a1489fbb7c4adb43085e09b6346985b0f[m
+Author: sumi <suuumi08@gmail.com>
+Date:   Mon Sep 28 11:27:24 2020 +0900
+
+    1. 에어비엔비 디자인 하기 환경 설정 완료
+
+[33mcommit 652b75d10b4342f2e16a0229fc9956ba94b065d6[m[33m ([m[1;31morigin/master[m[33m)[m
+Author: sumi <suuumi08@gmail.com>
+Date:   Mon Sep 28 10:41:22 2020 +0900
+
+    4. README 수정
+
+[33mcommit b6e9cd122975bef842b540840d9fe7c3bdba645e[m
+Author: sumi <suuumi08@gmail.com>
+Date:   Mon Sep 28 10:28:48 2020 +0900
+
+    3. README 수정
+
+[33mcommit a30fca56228be0673b35098526cb2ef8ebadfe07[m
+Author: sumi <suuumi08@gmail.com>
+Date:   Mon Sep 28 10:22:39 2020 +0900
+
+    2. README 수정
+
+[33mcommit ac9e37b9cf008d807411d881532119bc73ed2e1d[m
+Author: sumi <suuumi08@gmail.com>
+Date:   Mon Sep 28 09:44:10 2020 +0900
+
+    1. 리엑트 스타일 컴포넌트 연습을 위한 환경 세팅 완료
+
+[33mcommit efd49afd6855e85cb4123b41b169ce8a7ef78fd9[m
+Author: sumi <suuumi08@gmail.com>
+Date:   Mon Sep 28 09:26:55 2020 +0900
+
+    Initialize project using Create React App
