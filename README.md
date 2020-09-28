@@ -2,9 +2,9 @@
 
 ### 사진
 
-![Header](Header.png)
-![view1](view1.png)
-![view2](view2.png)
+![Header](https://github.com/rosearemi/React-Style-App/blob/master/preview/Header.png)
+![view1](https://github.com/rosearemi/React-Style-App/blob/master/preview/view1.png)
+![view2](https://github.com/rosearemi/React-Style-App/blob/master/preview/view2.png)
 
 ### 설치
 
