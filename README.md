@@ -2,9 +2,9 @@
 
 ### 사진
 
-![Header](../preview/Header.png)
-![view1](../preview/view1.png)
-![view2](../preview/view2.png)
+![Header](Header.png)
+![view1](view1.png)
+![view2](view2.png)
 
 ### 설치
 
